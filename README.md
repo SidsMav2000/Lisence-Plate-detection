@@ -1,2 +1,2 @@
-# animated-fortnight
-Car license Plate Detection Using OpenCV Python
+# Car Plate Detection using OpenCV-Python
+Detecting license plate from images of cars using openCV
